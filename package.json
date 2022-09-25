@@ -1,0 +1,27 @@
+{
+  "name": "console-dz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "date.js",
+  "bin": {
+    "mydate": "./date.js",
+    "guess": "./guess.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mea2k/node-console.git"
+  },
+  "author": "Eugene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mea2k/node-console/issues"
+  },
+  "homepage": "https://github.com/mea2k/node-console#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "yargs": "^17.5.1"
+  }
+}
