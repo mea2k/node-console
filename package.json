@@ -1,0 +1,19 @@
+{
+  "name": "console-coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coin.js",
+  "bin": {
+    "coin": "./coin.js",
+    "logs": "./logs.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "author": "Eugene",
+  "license": "ISC",
+   "dependencies": {
+    "readline": "^1.3.0",
+    "yargs": "^17.5.1"
+  }
+}
