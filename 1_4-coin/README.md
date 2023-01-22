@@ -57,7 +57,7 @@ node logs
 - общее число попыток (`totalAttempts`),
 - число побед (`winAttempts`),
 - процент побед (`winPercent`),
-- число проигрышей0 (`loseAttempts`),
+- число проигрышей (`loseAttempts`),
 - процент проигрышей (`losePercent`),
 - дата первой игры (`minDate`),
 - дата последней игры (`maxDate`),
