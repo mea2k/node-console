@@ -35,7 +35,7 @@ node -r dotenv/config weather.js
     weatherAPIToken=...
     weatherUrl=http://api.weatherstack.com/current
 ```
-В качестве значения weatherAPIToken необходимо взять токен, получаемый при **бесплатной** регистрации на сайте [weatherstack.com](https://weatherstack.com/signup/free)
+В качестве значения `weatherAPIToken` необходимо взять токен, получаемый при **бесплатной** регистрации на сайте [weatherstack.com](https://weatherstack.com/signup/free)
 
 3. Запустить программу с помощью команды:
 ```
